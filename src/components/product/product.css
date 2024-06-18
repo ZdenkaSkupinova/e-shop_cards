@@ -1,0 +1,43 @@
+h2 {
+    color: blueviolet;
+    font-style: italic;
+    margin-top: 0;
+  }
+  .card_detail {
+    display: flex;
+    padding: 30px 30px;
+  }
+  
+  .card_photo {
+    max-width: 50%;
+    height: auto;
+  }
+  
+  .text {
+    padding: 10px 30px;
+  }
+  
+  .card_description {
+    text-align: justify;
+  }
+  
+  .card_description,
+  .card_dimensions {
+    padding-top: 20px;
+  }
+  
+  .card_cost {
+    padding-top: 20px;
+    padding-bottom: 40px;
+  }
+  
+  #btn {
+    border: none;
+    padding: 10px 15px;
+    border-radius: 3%;
+    text-decoration: none;
+    outline: 2px solid grey;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+  }

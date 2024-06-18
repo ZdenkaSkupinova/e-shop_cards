@@ -1,0 +1,25 @@
+.uvodni_stranka {
+    margin-left: 20px ;
+   }
+   
+   h1 {
+   color: blueviolet;
+   font-style: italic;
+   text-align: center;
+   padding-bottom: 20px;
+   }
+   
+   a {
+     text-decoration: none;
+     color: blueviolet;
+   }
+   
+   .card_name {
+     font-size: 20px;
+     font-weight: bold;
+     text-align: center;
+     margin: 10px 240px;
+     padding: 10px 20px;
+     background-color: rgb(243, 194, 201);
+     border-radius: 3%;
+   }
