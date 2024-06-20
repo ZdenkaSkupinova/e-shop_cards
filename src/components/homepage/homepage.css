@@ -9,17 +9,17 @@
    padding-bottom: 20px;
    }
    
-   a {
+  a {
      text-decoration: none;
      color: blueviolet;
    }
    
-   .card_name {
+  .card_name {
      font-size: 20px;
      font-weight: bold;
      text-align: center;
      margin: 10px 240px;
      padding: 10px 20px;
-     background-color: rgb(243, 194, 201);
+     background-color: rgb(250, 228, 231);
      border-radius: 3%;
    }

@@ -1,7 +1,7 @@
 import "./product.css"
 
 export const Product = (props) => {
-    const { ulr, name, description, dimensions, cost} = props
+    const {ulr, name, description, dimensions, cost} = props
     return (
         <div className="card_detail">
         <img className="card_photo" src={ulr} alt="foto" />
